@@ -1,3 +1,8 @@
+/*
+Solution for the following:
+https://open.kattis.com/problems/2048
+ */
+
 package Kattis2048;
 
 import java.util.*;

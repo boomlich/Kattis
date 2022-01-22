@@ -1,3 +1,8 @@
+/*
+Solution for the following:
+https://open.kattis.com/problems/reseto
+ */
+
 package KattisReseto;
 
 import java.util.ArrayList;
